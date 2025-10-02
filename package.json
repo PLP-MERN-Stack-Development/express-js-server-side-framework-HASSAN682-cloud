@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Basic Express.js API with modular routes and middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "api", "nodejs", "starter"],
+  "author": "HASSAN MOHAMMED SAID",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
+
+
+
